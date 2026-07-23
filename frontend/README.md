@@ -1,1 +1,0 @@
-# mb-bloods-frontend-page-

@@ -1,10 +1,4 @@
-node_modules/
-*.sqlite
-*.sqlite.bak
-*.sqlite-journal
+node_modules
 .env
-.DS_Store
-
-.vercel
-service-account.json
-mahesh-babu-bloods-*.json
+database.sqlite*
+uploads
